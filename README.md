@@ -45,10 +45,8 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ## 🌟 **Projects**
 (Add your projects below)
 
-- 🔹 **Project Name 1** – Short description  
-- 🔹 **Project Name 2** – Short description  
-- 🔹 **Project Name 3** – Short description  
-
+- 🔹 **Project Name 1** – bus pass 
+- 🔹 **Project Name 2** –  clash of champion game
 ---
 
 ## 📈 **GitHub Stats**
