@@ -59,9 +59,9 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ---
 
 ## 📫 **Connect With Me**
-- Email: **your-email@example.com**  
-- LinkedIn: **your-linkedin-profile**  
-- Portfolio: **your-website**  
+- Email: trishulpoojary331@gmail.com
+- LinkedIn:  https://www.linkedin.com/in/thrishul-poojary-b57a40325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  
 
 ---
 
