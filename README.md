@@ -50,12 +50,6 @@ Bus Pass Management System is a simple application designed to help students and
 - 🔹 **Project Name 2** –  clash of champion game:-it  is an interactive application designed to provide fun and engaging gameplay using simple controls and clear rules. It includes features like scoring, levels, animations, and user-friendly design, offering an enjoyable experience while improving logic and problem-solving skills.
 
 
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%"/>
-</p>
 
 ---
 
