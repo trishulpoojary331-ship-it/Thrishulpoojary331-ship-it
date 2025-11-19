@@ -45,9 +45,10 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ## 🌟 **Projects**
 (Add your projects below)
 
-- 🔹 **Project Name 1** – bus pass 
-- 🔹 **Project Name 2** –  clash of champion game
----
+- 🔹 **Project Name 1** – bus pass :-
+Bus Pass Management System is a simple application designed to help students and passengers apply for, renew, and manage bus passes easily. It allows online registration, pass generation, fare calculation, and admin approval, reducing manual work and making the process faster and more efficient.
+- 🔹 **Project Name 2** –  clash of champion game:-it  is an interactive application designed to provide fun and engaging gameplay using simple controls and clear rules. It includes features like scoring, levels, animations, and user-friendly design, offering an enjoyable experience while improving logic and problem-solving skills.
+
 
 ## 📈 **GitHub Stats**
 
