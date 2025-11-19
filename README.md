@@ -13,8 +13,7 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ### 🔹 **Backend Development**
 - Python  
 - PHP  
-- Java  
-- Node.js (if you want, remove)  
+- Java   
 
 ### 🔹 **Frontend Development**
 - HTML  
@@ -24,11 +23,10 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ### 🔹 **Databases**
 - MySQL  
 - PostgreSQL  
-- MongoDB (optional)  
+
 
 ### 🔹 **Tools & Technologies**
-- Git & GitHub  
-- REST APIs  
+- Git & GitHub   
 - Linux / Shell  
 - VS Code  
 
@@ -43,7 +41,6 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ---
 
 ## 🌟 **Projects**
-(Add your projects below)
 
 - 🔹 **Project Name 1** – bus pass :-
 Bus Pass Management System is a simple application designed to help students and passengers apply for, renew, and manage bus passes easily. It allows online registration, pass generation, fare calculation, and admin approval, reducing manual work and making the process faster and more efficient.
